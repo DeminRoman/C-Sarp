@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aHUbfXipguWAu8ON4LBeA8oU+zL20d5l5/ikqUW5zujeX7OIgikkJqSncJEzu8OK6TfCbzon6rApXtApIzk7iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msaka\\OneDrive\\Документы\\Terminal\\Examples\\Ex005_IfElse\\Ex005_IfElse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msaka\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.9\\microsoft.netcore.app.ref.6.0.9.nupkg.sha512",
+    "C:\\Users\\msaka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.9\\microsoft.netcore.app.host.win-x64.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
